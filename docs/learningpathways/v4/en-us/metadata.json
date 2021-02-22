@@ -163,7 +163,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Custom",
       "SubCategories": [
         {
           "Id": "44410e07-3454-4fae-a9ba-b5f7e6caa243",
@@ -171,7 +171,7 @@
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Custom",
           "SubCategories": []
         },
     {

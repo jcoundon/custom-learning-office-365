@@ -167,13 +167,49 @@
       "SubCategories": [
         {
           "Id": "44410e07-3454-4fae-a9ba-b5f7e6caa243",
-          "Name": "EDS Modules",
+          "Name": "Using Devices",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": null,
           "Source": "Custom",
           "SubCategories": []
-        }
+        },
+        {
+          "Id": "4a6d3933-373c-4799-9c11-461048d24608",
+          "Name": "Finding & Evaluating Information",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "5927c6a4-a633-4707-953e-3991fe1d6102",
+          "Name": "Managing & Storing Information",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "6bd7b57f-310c-4e37-8965-a53756783638",
+          "Name": "Identifying & Solving Technical Problems",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "5d8d5290-ec6c-4818-987c-0006c8461702",
+          "Name": "Developing Digital Skills",
+          "Image": "images/categories/work_remotely.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
        ]
      },
     {
